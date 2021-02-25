@@ -1,0 +1,110 @@
+.mkdf-preload-background { background-image: url(../../../../../../../rddevs.xsrv.jp/sjsmdn/wp-content/themes/deploy/assets/img/preload_pattern.html) !important;}
+
+.mkdf-boxed .mkdf-wrapper { background-attachment: fixed;}
+
+.mkdf-content .mkdf-content-inner > .mkdf-container > .mkdf-container-inner { padding-top: 72px;}
+
+h1 { color: #333333;font-family: Noto Sans;font-weight: 700;}
+
+h2 { color: #333333;font-family: Noto Sans;font-weight: 700;}
+
+h3 { color: #333333;font-family: Noto Sans;font-weight: 700;}
+
+h4 { color: #333333;font-family: Noto Sans;font-weight: 700;}
+
+h5 { color: #333333;font-family: Noto Sans;font-weight: 700;}
+
+h6 { color: #333333;font-family: Noto Sans;font-weight: 700;}
+
+p { color: #333333;font-family: Noto Sans;font-style: normal;}
+
+a, p a { font-style: normal;}
+
+.mkdf-accordion-holder .mkdf-title-holder { font-family: Noto Sans;}
+
+.mkdf-btn { font-family: Noto Sans;}
+
+            .mkdf-main-menu.mkdf-default-nav > ul > li > a,
+            .mkdf-page-header #lang_sel > ul > li > a,
+            .mkdf-page-header #lang_sel_click > ul > li > a,
+            .mkdf-page-header #lang_sel ul > li:hover > a{
+                                        font-family: 'Noto Sans', sans-serif;
+                                                                                    }
+        
+                    .mkdf-page-header #lang_sel_list{
+            font-family: 'Noto Sans', sans-serif !important;
+            }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+                    .mkdf-drop-down .second .inner > ul > li > a,
+            .mkdf-drop-down .second .inner > ul > li > h4,
+            .mkdf-drop-down .wide .second .inner > ul > li > h4,
+            .mkdf-drop-down .wide .second .inner > ul > li > a,
+            .mkdf-drop-down .wide .second ul li ul li.menu-item-has-children > a,
+            .mkdf-drop-down .wide .second .inner ul li.sub ul li.menu-item-has-children > a,
+            .mkdf-drop-down .wide .second .inner > ul li.sub .flexslider ul li  h4 a,
+            .mkdf-drop-down .wide .second .inner > ul li .flexslider ul li  h4 a,
+            .mkdf-drop-down .wide .second .inner > ul li.sub .flexslider ul li  h4,
+            .mkdf-drop-down .wide .second .inner > ul li .flexslider ul li  h4,
+            .mkdf-main-menu.mkdf-default-nav #lang_sel ul li li a,
+            .mkdf-main-menu.mkdf-default-nav #lang_sel_click ul li ul li a,
+            .mkdf-main-menu.mkdf-default-nav #lang_sel ul ul a,
+            .mkdf-main-menu.mkdf-default-nav #lang_sel_click ul ul a{
+                                        font-family: 'Noto Sans', sans-serif !important;
+                                                                                                }
+        
+        
+        
+        
+        
+                    .mkdf-drop-down .wide .second .inner > ul > li > a{
+                                        font-family: 'Noto Sans', sans-serif !important;
+                                                                                                }
+        
+        
+        
+        
+                    .mkdf-drop-down .second .inner ul li.sub ul li a{
+                                        font-family: 'Noto Sans', sans-serif;
+                                                                                                }
+                
+        
+                    .mkdf-drop-down .wide .second .inner ul li.sub ul li a,
+            .mkdf-drop-down .wide .second ul li ul li a{
+                                        font-family: 'Noto Sans', sans-serif;
+                                                                                                }
+                
+        .mkdf-mobile-header .mkdf-mobile-header-inner { background-color: #ffffff;}
+
+.mkdf-mobile-header .mkdf-mobile-nav a, .mkdf-mobile-header .mkdf-mobile-nav h4 { font-family: Noto Sans;}
+
+            @media only screen and (max-width: 1000px) {
+            .mkdf-mobile-header .mkdf-mobile-logo-wrapper a { height: 20px !important;}
+
+            }
+                    @media only screen and (max-width: 480px) {
+            .mkdf-mobile-header .mkdf-mobile-logo-wrapper a { height: 20px !important;}
+
+            }
+        .mkdf-side-menu-title h4, .mkdf-side-menu-title h5 { color: #333333;font-family: Noto Sans, sans-serif;}
+
+.mkdf-side-menu .widget, .mkdf-side-menu .widget.widget_search form, .mkdf-side-menu .widget.widget_search form input[type="text"], .mkdf-side-menu .widget.widget_search form input[type="submit"], .mkdf-side-menu .widget h6, .mkdf-side-menu .widget h6 a, .mkdf-side-menu .widget p, .mkdf-side-menu .widget li a, .mkdf-side-menu .widget.widget_rss li a.rsswidget, .mkdf-side-menu #wp-calendar caption,.mkdf-side-menu .widget li, .mkdf-side-menu h3, .mkdf-side-menu .widget.widget_archive select, .mkdf-side-menu .widget.widget_categories select, .mkdf-side-menu .widget.widget_text select, .mkdf-side-menu .widget.widget_search form input[type="submit"], .mkdf-side-menu #wp-calendar th, .mkdf-side-menu #wp-calendar td, .mkdf-side-menu .q_social_icon_holder i.simple_social { font-family: Noto Sans, sans-serif;color: #333333;}
+
+.mkdf-side-menu .widget li a, .mkdf-side-menu .widget a:not(.qbutton) { font-family: Noto Sans,sans-serif;}
+
